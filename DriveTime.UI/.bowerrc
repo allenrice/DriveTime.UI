@@ -1,0 +1,8 @@
+{
+    "directory": "src/bower_modules",
+    "registry": {
+        "search": [
+            "http://proget:81/bower/DriveTime%20Bower"
+        ]
+    }
+}
